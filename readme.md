@@ -1,18 +1,9 @@
-<!--## Hi there 👋-->
+haylo, i'm barbara 🇳🇬
 
-<!--
-**barbaraeguche/barbaraeguche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm an aspiring fullstack web developer with an interest in mobile development and cybersecurity. i started learning web development in august 2024, and fell in love with it.
 
-Here are some ideas to get you started:
+i prefer typescript the most for frontend work, and spring boot for backend development. i love working with postgresql for database management. currently, i'm working on getting my macbook running for swift development 😕, but keep getting too distracted with cybersecurity videos on youtube 😂.
 
-- 🔭 I’m currently working on quantumcare
-- 🌱 I’m currently learning fullstack web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with design
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i can stay up late coding
--->
+if you want to collaborate on projects or if you'd like to employ me, please contact me on [linkedin](https://www.linkedin.com/in/barbaraeguche/). i'm not great with design ☺️, but working on improving!
 
-aspiring fullstack developer with an interest in mobile dev...
+when i'm not coding, i enjoy solo ice-skating and drinking milk 🥛. i typically stay up late coding and find i'm most productive during night hours.
