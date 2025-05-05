@@ -1,6 +1,6 @@
 haylo, i'm barbara 🇳🇬
 
-i'm an aspiring fullstack web developer with an interest in mobile development and cybersecurity. i started learning web development in august 2024, and fell in love with it.
+i'm an aspiring backend developer with an interest in mobile development and cybersecurity. i started learning web development in august 2024, and fell in love with it.
 
 i prefer typescript the most for frontend work, and spring boot for backend development. i love working with postgresql for database management. 
 
