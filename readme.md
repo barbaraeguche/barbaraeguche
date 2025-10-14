@@ -4,8 +4,6 @@ I'm a Computer Science student at Concordia University passionate about building
 
 Through my recent 8-month internship, I developed critical frontend interfaces using React, Redux, Cypress, and Django. This experience strengthened my full-stack development skills and taught me the importance of building reliable, mission-critical software. I thrive in collaborative environments where teamwork makes the dream work! 🚀
 
-Currently transitioning from frontend to backend/cloud/database development, I'm passionate about working with systems, Go, C++, and Docker. Whether it's enabling critical communications or empowering creative professionals, I love creating software that makes a real difference. ⚙️
-
 My core skills span frontend development, database design, and understanding system design principles, with a growing focus on backend technologies and cloud solutions. 💻
 
 Looking to connect with fellow developers, mentors, and anyone working on innovative tech solutions. Always open to discussing new opportunities and learning from others in the industry! 🌟
