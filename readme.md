@@ -1,9 +1,9 @@
-hi, i'm barbara 💌
+hello, i'm barbara 💌
 
-I'm a senior CS student at Concordia University passionate about building impactful software solutions. Starting Winter 2026, I'll be joining Autodesk as an intern with the EMS team in Montreal, developing core functionality for industry-leading creative software like Maya and 3ds Max using C++. 🎨
+i'm a senior cs student @**uconcordia** passionate about impactful software solutions. starting winter 2026, i'll be joining @**autodesk** as a swe intern on the **ems team** where i'll be developing core functionalities of creative software like maya, 3dx max.
 
-Through my recent 8-month internship, I developed critical frontend interfaces using React, Redux, Cypress, and Django. This experience strengthened my full-stack development skills and taught me the importance of building reliable, mission-critical software. I thrive in collaborative environments where teamwork makes the dream work! 🚀
+wrapped up my internship @**radio-ip software** where i mostly worked with react, typescript, redux, cypress, and django. the experience not only strengthened my full-stack dev skills, but also soft skills such as communication and collaboration.
 
-My core skills span frontend development, database design, and understanding system design principles, with a growing focus on backend technologies and cloud solutions. 💻
+my skills span frontend dev, databases, and understanding system design principles, with a growing interest on **backend & cloud technologies**.
 
-Looking to connect with fellow developers, mentors, and anyone working on innovative tech solutions. Always open to discussing new opportunities and learning from others in the industry! 🌟
+looking to connect with fellow devs x mentors. always open to learning, and discussing new opportunities <3.
