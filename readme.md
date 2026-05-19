@@ -1,7 +1,7 @@
-hello, i'm barbara 💌
+hello 💌
 
-i'm a senior cs student @**uconcordia**. starting winter 2026, i'll be joining @**autodesk** as a swe intern on the **ems team** where i'll be contributing to core features of maya and 3ds max.
+i'm a cs student @**concordia**. this summer, i'll be swe intern @**bloomberg** on the eng **platform services team**.
 
-i previously interned @**radio-ip software** where i mostly worked with react, typescript, redux, cypress, and django. i left a better dev, both technically and collaboratively.
+i previously interned @**autodesk** working on code coverage analysis using maxscript, c++, & python.
 
-i'm most interested in **infra**, **databases**, & **fintech**, with a growing curiosity in **hardware**, plus i'm always open to learning and connecting with people working in these spaces.
+i'm most interested in **infra**, **databases**, & **fintech**, plus i'm always open to learning and connecting with people in&out of such spaces.
